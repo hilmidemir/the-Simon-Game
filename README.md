@@ -1,2 +1,17 @@
 # the-Simon-Game
-Make Simon Game with jQuery 
+Make Simon Game with jQuery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
