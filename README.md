@@ -6,6 +6,3 @@ Make Simon Game with jQuery
 
 
 
-
-
-
